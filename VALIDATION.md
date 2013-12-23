@@ -17,4 +17,5 @@
 	2. Erste zwei Stellen == "DE"
 	3. Extrahiere Bankleitzahl und Kontonummer aus IBAN
 
+4. Extrahiere Informationen: Kontonummer und Bankleitzahl für zwei weitere Länder
 
