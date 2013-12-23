@@ -20,3 +20,6 @@
 4. Extrahiere Informationen: Kontonummer und Bankleitzahl für zwei weitere Länder
 
 5. Generiere valide deutsche IBAN, gegeben Kontonummer und Bankleitzahl
+
+6. Gegeben ein Webservice zur Überprüfung von beliebigen IBANs (gibt zurück: 0 invalid, 1 valid)
+	1. Ergänze den Service um die Prüfung gegen den Webservice
