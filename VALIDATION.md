@@ -14,3 +14,5 @@
 
 3. Fokus auf Deutschland: Validiere deutsche IBAN
 	1. Länge 22
+	2. Erste zwei Stellen == "DE"
+
