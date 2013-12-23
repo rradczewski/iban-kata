@@ -19,3 +19,4 @@
 
 4. Extrahiere Informationen: Kontonummer und Bankleitzahl für zwei weitere Länder
 
+5. Generiere valide deutsche IBAN, gegeben Kontonummer und Bankleitzahl
