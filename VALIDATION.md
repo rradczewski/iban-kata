@@ -23,3 +23,4 @@
 
 6. Gegeben ein Webservice zur Überprüfung von beliebigen IBANs (gibt zurück: 0 invalid, 1 valid)
 	1. Ergänze den Service um die Prüfung gegen den Webservice
+	2. Ergänze den Service dahingehend, als dass der letzte Zeitpunkt, an dem eine IBAN bekannt valide war, zurückgegeben wird.
