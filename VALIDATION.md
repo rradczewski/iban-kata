@@ -12,3 +12,5 @@
 	c. Als Zahl interpretieren und MOD 97 ausführen
 	d. Ergebnis gegen 1 prüfen
 
+3. Fokus auf Deutschland: Validiere deutsche IBAN
+	1. Länge 22
